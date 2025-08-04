@@ -57,6 +57,9 @@ Welcome to the A-1 Launchpad submission for **Streamlining Electronics Repair Se
   - Complaint TAT (Turnaround Time)
   - Repair Cost Buckets (<₹400, ₹400–₹700, >₹700)
   - User-wise & Team-wise complaint resolution stats
+ 
+  - <img width="1196" height="658" alt="image" src="https://github.com/user-attachments/assets/25a5610d-ad1d-4db7-9a02-9fa6922684af" />
+
 
 ---
 
