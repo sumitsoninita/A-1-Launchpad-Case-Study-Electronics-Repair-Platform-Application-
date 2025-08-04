@@ -93,7 +93,25 @@ Welcome to the A-1 Launchpad submission for **Streamlining Electronics Repair Se
 
 ><img width="883" height="675" alt="image" src="https://github.com/user-attachments/assets/815a50d4-81e3-40d3-8541-b5f92d7da4b6" />
 
-> `Login Page • Complaint Tracker • Chatbot Interface • Power BI Dashboard`
+## Dataset Headings
+
+| Column                    | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| Product Type              | The specific product (e.g., Energizer, Power Adapter).                      |
+| Complaint Type            | The nature of the issue (e.g., Software Glitch, Overheating).              |
+| Issue Severity            | The level of urgency or impact of the complaint.                           |
+| Assigned To               | The individual or team responsible for the repair.                         |
+| Complaint Status          | The current stage of the complaint (e.g., Submitted, Validated, Repair).   |
+| Service Validation Outcome| The result of the initial service team assessment.                         |
+| Dispatch Request Date     | The date a dispatch request was created.                                   |
+| Received by EPR (Yes/No)  | Indicates if the complaint has been handed off to the EPR team.            |
+| Estimated Repair Cost     | The projected cost for the repair.                                         |
+| Approved (Y/N)            | Indicates if the repair cost has been approved.                            |
+| Repair Completed Date     | The date the repair was finished.                                          |
+| Final Dispatch Date       | The date the repaired item was dispatched.                                 |
+| Resolution Summary        | A brief summary of how the issue was resolved.                             |
+| TAT (Turnaround Time)     | The total time taken to resolve the complaint.                             |
+
 
 ---
 
